@@ -4,5 +4,9 @@
 - 🛠️ [Admin Dashboard](https://doctor-appointment-admin-black.vercel.app)
 
 
-Admin user- admin@gmail.com
-Pass - 123456789
+## 🔐 Admin Credentials (Development)
+
+ 
+
+* **Email:** `admin@gmail.com`
+* **Password:** `123456789`
